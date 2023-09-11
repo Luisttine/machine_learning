@@ -1,0 +1,107 @@
+Nome,Idade,Experiência,Email,Sexo
+João,23,Desenvolvedor Front-End e Desenvolvedor Python,joao23@email.com,Masculino
+Maria,34,Desenvolvedora Python Sênior,maria34@email.com,Feminino
+Luis,20,Desenvolvedor Python Sênior e Desenvolvedor Full Stack Web,luis20@email.com,Masculino
+Ana,28,Desenvolvedora Back-End,ana28@email.com,Feminino
+Carlos,30,Engenheiro de Software e Especialista em DevOps,carlos30@email.com,Masculino
+Sofia,25,Designer de UI/UX,sofia25@email.com,Feminino
+Pedro,29,Cientista de Dados,pedro29@email.com,Masculino
+Laura,32,Gerente de Produto,laura32@email.com,Feminino
+André,27,Desenvolvedor de Aplicativos Móveis,andre27@email.com,Masculino
+Fernanda,35,Administradora de Banco de Dados,fernanda35@email.com,Feminino
+Rui,26,Engenheiro de Machine Learning,rui26@email.com,Masculino
+Isabel,31,Desenvolvedora Front-End,isabel31@email.com,Feminino
+Miguel,24,Desenvolvedor Python Júnior,miguel24@email.com,Masculino
+Beatriz,33,Analista de Dados Sênior,beatriz33@email.com,Feminino
+Tiago,22,Desenvolvedor Full Stack Web Júnior,tiago22@email.com,Masculino
+Diana,29,Testadora de Software,diana29@email.com,Feminino
+Guilherme,36,Arquiteto de Soluções em Nuvem,guilherme36@email.com,Masculino
+Catarina,27,Designer de UI e Desenvolvedora Front-End Python de Estrutura de Dados,catarina27@email.com,Feminino
+Antonio,30,Engenheiro de DevOps,antonio30@email.com,Masculino
+Marta,28,Proprietária de Produto,marta28@email.com,Feminino
+Hugo,32,Engenheiro de Dados,hugo32@email.com,Masculino
+Ines,23,Designer de UI/UX Júnior,ines23@email.com,Feminino
+Alexandre,37,Desenvolvedor Full Stack Sênior,alexandre37@email.com,Masculino
+Joana,26,Desenvolvedora de Software,joana26@email.com,Feminino
+Rodrigo,29,Cientista de Dados Sênior,rodrigo29@email.com,Masculino
+Carolina,31,Desenvolvedora Front-End,carolina31@email.com,Feminino
+André,27,Desenvolvedor Back-End,andre27@email.com,Masculino
+Lara,22,Designer Júnior de UI/UX,lara22@email.com,Feminino
+Paulo,35,Administrador de Banco de Dados,paulo35@email.com,Masculino
+Ana Carolina,30,Engenheira de Machine Learning,anacarolina30@email.com,Feminino
+Gustavo,24,Desenvolvedor Python,gustavo24@email.com,Masculino
+Renata,28,Gerente de Produto,renata28@email.com,Feminino
+Thiago,32,Desenvolvedor Full Stack Web,thiago32@email.com,Masculino
+Juliana,27,Designer de UI/UX,juliana27@email.com,Feminino
+Marcelo,38,Engenheiro de DevOps,marcelo38@email.com,Masculino
+Camila,25,Testadora de Software,camila25@email.com,Feminino
+Lucas,29,Arquiteto de Soluções em Nuvem,lucas29@email.com,Masculino
+Mariana,34,Desenvolvedora de Software Sênior,mariana34@email.com,Feminino
+Ricardo,33,Engenheiro de Dados,ricardo33@email.com,Masculino
+Aline,26,Desenvolvedora Front-End,aline26@email.com,Feminino
+Eduardo,31,Proprietário de Produto,eduardo31@email.com,Masculino
+Alice,24,Desenvolvedora Python Júnior,alice24@email.com,Feminino
+Fábio,35,Engenheiro de DevOps Sênior,fabio35@email.com,Masculino
+Vanessa,28,Desenvolvedora Front-End,vanessa28@email.com,Feminino
+Leonardo,34,Engenheiro de Software Sênior,leonardo34@email.com,Masculino
+Patrícia,29,Analista de Dados,patricia29@email.com,Feminino
+Rafael,25,Testador de Software,rafael25@email.com,Masculino
+Camila,30,Administradora de Banco de Dados,camila30@email.com,Feminino
+Pedro,26,Desenvolvedor Python,pedro26@email.com,Masculino
+Larissa,23,Designer de UI/UX Júnior,larissa23@email.com,Feminino
+Anderson,35,Desenvolvedor Full Stack Web,anderson35@email.com,Masculino
+Mariana,27,Designer de UI/UX,mariana27@email.com,Feminino
+Felipe,32,Engenheiro de DevOps,felipe32@email.com,Masculino
+Ana Luiza,31,Proprietária de Produto,analuiza31@email.com,Feminino
+Gustavo,29,Engenheiro de Machine Learning,gustavo29@email.com,Masculino
+Daniela,26,Desenvolvedora Front-End,daniela26@email.com,Feminino
+Marcos,38,Arquiteto de Soluções em Nuvem,marcos38@email.com,Masculino
+Cristina,33,Cientista de Dados Sênior,cristina33@email.com,Feminino
+Lucas,30,Desenvolvedor de Software,lucas30@email.com,Masculino
+Amanda,27,Engenheira de Software,amanda27@email.com,Feminino
+Carlos,25,Desenvolvedor Python,carlos25@email.com,Masculino
+Carolina,24,Desenvolvedora Python Júnior,carolina24@email.com,Feminino
+Ricardo,36,Administrador de Banco de Dados,ricardo36@email.com,Masculino
+Fernanda,28,Desenvolvedora Full Stack Web,fernanda28@email.com,Feminino
+Hugo,31,Designer de UI/UX,hugo31@email.com,Masculino
+Juliana,29,Engenheira de DevOps,juliana29@email.com,Feminino
+Felipe,26,Proprietário de Produto,felipe26@email.com,Masculino
+Isabela,27,Testadora de Software,isabela27@email.com,Feminino
+Bruno,34,Arquiteto de Nuvem Sênior,bruno34@email.com,Masculino
+Vitória,23,Desenvolvedora Front-End,vitoria23@email.com,Feminino
+José,32,Engenheiro de Dados,jose32@email.com,Masculino
+Laura,30,Engenheira de Machine Learning,laura30@email.com,Feminino
+Marcelo,35,Desenvolvedor de Software Sênior,marcelo35@email.com,Masculino
+Vitor,27,Desenvolvedor Full Stack Web,vitor@email.com,Masculino
+Tatiana,29,Engenheira de Software,tatiana@email.com,Feminino
+Hélio,34,Analista de Dados Sênior,helio@email.com,Masculino
+Silvia,25,Designer de UI,silvia@email.com,Feminino
+Pedro Henrique,31,Administrador de Banco de Dados,pedrohenrique31@email.com,Masculino
+Carla,26,Gerente de Produto,carla26@email.com,Feminino
+Rafael,30,Engenheiro de Machine Learning,rafael30@email.com,Masculino
+Monica,28,Desenvolvedora Python Júnior,monica28@email.com,Feminino
+Gustavo,33,Desenvolvedor Full Stack Sênior,gustavo33@email.com,Masculino
+Elaine,24,Testadora de Software,elaine24@email.com,Feminino
+Leonardo,32,Arquiteto de Soluções em Nuvem,leonardo32@email.com,Masculino
+Larissa,29,Desenvolvedora Front-End,larissa29@email.com,Feminino
+Bernardo,36,Engenheiro de DevOps,bernardo36@email.com,Masculino
+Beatriz,26,Cientista de Dados,beatriz26@email.com,Feminino
+Daniel,28,Proprietário de Produto,daniel28@email.com,Masculino
+Renata,27,Designer de UI/UX,renata27@email.com,Feminino
+Felipe,35,Desenvolvedor de Software,felipe35@email.com,Masculino
+Marina,24,Desenvolvedora de UI/UX Júnior,marina24@email.com,Feminino
+Eduarda,31,Engenheira de Machine Learning Sênior,eduarda31@email.com,Feminino
+Bruno,33,Desenvolvedor Python,bruno33@email.com,Masculino
+Alice,28,Administradora de Banco de Dados,alice28@email.com,Feminino
+Ricardo,30,Desenvolvedor Front-End,ricardo30@email.com,Masculino
+Isabela,29,Gerente de Produto,isabela29@email.com,Feminino
+Carlos Eduardo,34,Desenvolvedor Web Full Stack Sênior,carloseduardo34@email.com,Masculino
+Lorena,27,Designer de UI/UX,lorena27@email.com,Feminino
+João Pedro,26,Testador de Software,joaopedro26@email.com,Masculino
+Camila,32,Cientista de Dados,camila32@email.com,Feminino
+Luis Felipe,25,Engenheiro de DevOps Júnior,luisfelipe25@email.com,Masculino
+Cintia,28,Engenheira de Software,cintia28@email.com,Feminino
+Márcio,30,Engenheiro de Machine Learning,marcio30@email.com,Masculino
+Márcio,30,Engenheiro de Machine Learning,marcio30@email.com,Masculino
+Cintia,28,Engenheira de Software,cintia28@email.com,Feminino
+Luis Felipe,25,Engenheiro de DevOps Júnior,luisfelipe25@email.com,Masculino
